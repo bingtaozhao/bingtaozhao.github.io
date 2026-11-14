@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "赵兵涛 Zhao, Bingtao"
+title                    : "赵兵涛"
 title_separator          : "-"
 name                     : &name "赵兵涛"
 description              : &description "Zhao, Bingtao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "赵兵涛 Zhao, Bingtao"
   pronouns         : # example: "she/her"  
   bio              : "Cyclonic Flow, Separation and Process Intensification, Carbon Capture, and Air Pollution Control"
-  location         : "China"
+  location         : "CHINA"
   employer         : "University of Shanghai for Science and Technology"
   uri              : "bingtaozhao.github.io" # URL
   email            : "zhaobingtao@126.com" 
