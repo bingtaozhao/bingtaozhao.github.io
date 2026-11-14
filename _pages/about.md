@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhao, Bingtao's Academic Personal Websites"
+title: "Welcome to Zhao, Bingtao's Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
