@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Bio"
-permalink: /pages/
+permalink: /pages/bio.md
 author_profile: true
 redirect_from: 
   - /bio/
