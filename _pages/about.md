@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhao, Bingtao's Academic Personal Website"
+title: "Zhao, Bingtao's Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,4 +41,4 @@ redirect_from:
 ------
 * 2016年度上海市自然科学奖，三等奖，第1完成人  
 * 2021年度上海理工大学校级教学成果奖，一等奖，第1完成人  
-* 2023年度上海理工大学优秀教材奖，一等奖，第1完成人
+* 2023年度上海理工大学优秀教材奖，一等奖，第1完成人  
