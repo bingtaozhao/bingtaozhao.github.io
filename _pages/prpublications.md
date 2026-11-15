@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Peer-reviewed Publications"
-permalink: /pages/
+permalink: /prpublications/
 author_profile: true
 redirect_from: 
-  - /publication/
+  - /prpublications.md
 ---
 
 {% include base_path %}

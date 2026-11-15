@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Join Us"
-permalink: /pages/
+permalink: /joinus/
 author_profile: true
 redirect_from: 
-  - /joinus/
+  - /joinus.md
 ---
 
 {% include base_path %}

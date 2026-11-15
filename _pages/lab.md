@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Lab"
-permalink: /pages/
+permalink: /lab/
 author_profile: true
 redirect_from: 
-  - /lab/
+  - /lab.md
 ---
 
 {% include base_path %}

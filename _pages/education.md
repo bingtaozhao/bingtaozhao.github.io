@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Education & Work Experience"
-permalink: /pages/
+permalink: /education/
 author_profile: true
 redirect_from: 
-  - /education/
+  - /education.md
 ---
 
 {% include base_path %}
