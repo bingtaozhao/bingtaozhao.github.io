@@ -9,19 +9,19 @@
 
 main:
   - title: "Research"
-    url: /pages/
+    url: /research/
 
   - title: "Education"
-    url: /pages/
+    url: /education/
 
   - title: "Publications"
     url: /prpublications/
 
   - title: "Lab"
-    url: /pages/
+    url: /lab/
 
   - title: "Bio"
-    url: /pages/
+    url: /bio/
 
   - title: "Join Us"
-    url: /pages/
+    url: /joinus/
