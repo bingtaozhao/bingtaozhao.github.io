@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "赵兵涛 Zhao, Bingtao - 上海理工大学"
+title: "赵兵涛 Zhao, Bingtao"
 author_profile: true
 redirect_from: 
   - /about/
