@@ -12,7 +12,7 @@ redirect_from:
 上海市杨浦区军工路516号 (邮编: 200093)  
 
 **Dr. and Prof. Zhao, Bingtao**  
-University of Shanghai for Science and Technology  
+School of Energy and Power Engineering, University of Shanghai for Science and Technology  
 516 Jungon Road, Shanghai 200093  
 China.  
 
