@@ -10,7 +10,8 @@ redirect_from:
 
 研究兴趣和方向包括：
 ------
-* 能源与环境交叉领域:
+* 能源与环境交叉领域:  
+
   * 气体颗粒旋流流动、分离动力学与过程强化;  
 Gas-particle vortex flow, separatioin dyanamics, and process intensification  
 
