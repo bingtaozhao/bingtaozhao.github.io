@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7419-263X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL - https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/scientific-contributions/Bingtao-Zhao-75160029"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7403059217"
   zotero           : # URL
@@ -57,8 +57,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "facebook.app" # Username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # "facebook.app" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
