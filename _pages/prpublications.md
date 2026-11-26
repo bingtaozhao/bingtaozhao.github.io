@@ -12,7 +12,7 @@ Journal Articles & Monographs
 ------
 * 在SCI国际期刊发表学术论文90余篇，h因子30、他引3600余次；
 * 在Science发表eLetters通讯短评1篇；
-* 出版著作4部、参编1部。
+* 出版著作4部 (化学工业出版社)、参编1部 (Elsevier)。
 
 Projects
 ------
