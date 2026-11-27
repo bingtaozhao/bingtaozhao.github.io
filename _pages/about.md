@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "赵兵涛 Zhao, Bingtao"
+title: "Zhao, Bingtao 赵兵涛"
 author_profile: true
 redirect_from: 
   - /about/
