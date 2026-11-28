@@ -45,7 +45,7 @@ author:
   researchgate     : # URL "https://www.researchgate.net/scientific-contributions/Bingtao-Zhao-75160029"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7403059217"
   zotero           : # URL
-  researcherID      : "https://webofscience.clarivate.cn/wos/author/record/D-7918-2013"
+  researcherid      : "https://webofscience.clarivate.cn/wos/author/record/D-7918-2013"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
