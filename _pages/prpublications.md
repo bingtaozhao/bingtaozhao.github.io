@@ -15,7 +15,7 @@ Journal Articles & Monographs
 * 出版著作4部 (化学工业出版社)、参编1部 (Elsevier)；
 * LINKS:
   * [ORCID](https://orcid.org/0000-0001-7419-263X){:target="_blank"}
-  * [ResearcherID | Publons](https://webofscience.clarivate.cn/wos/author/record/D-7918-2013){:target="_blank"}
+  * [ResearcherID / Publons](https://webofscience.clarivate.cn/wos/author/record/D-7918-2013){:target="_blank"}
   * [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=7403059217){:target="_blank"}
   * [ResearchGate](https://www.researchgate.net/scientific-contributions/Bingtao-Zhao-75160029){:target="_blank"}
 
